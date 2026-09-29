@@ -1,0 +1,101 @@
+client_id,prenom,nom,email,age,telephone,ville,date_inscription
+1,Julien,Bernard,julien.bernard@example.com,-7,06123, toulouse ,2025-04-05
+2,Chloe,,chloe.martin@example.com,53,06123,Toulon,2025-11-23
+3,Emma,Robert,emma.robert@example.com,27,06123,Nantes,2025-02-03
+4,Hugo,Durand,,-11,,Nice,2025-13-45
+5,Sophie,,sophie.leroy@example.com,24,0661019678,Nice,2025-13-45
+6,Julien,Thomas,julien.thomas@example.com,52,0642857966,Marseille,2025-13-45
+7,,Martin,manon.martin@example.com,69,0652339391,Strasbourg,2025-05-03
+8,Lea,Thomas,lea.thomas@example.com,34,0628740864,Toulouse,2025-12-18
+9,,Bernard,lea.bernard@example.com,66,0616323852,Lyon,2025-03-21
+10,Antoine,Leroy,antoine.leroy_at_example.com,18,0625374874,Montpellier,2025-09-25
+11,Lucas,Moreau,lucas.moreau@example.com,66,0633978249, lille ,2025-02-28
+12,  hugo  ,Moreau,hugo.moreau@example.com,18,,Nantes,2025-08-01
+13,  marie  ,Bernard,marie.bernard@example.com,187,0675228535,Lyon,2025-09-25
+14,Antoine,Lefebvre,antoine.lefebvre@example.com,64,06123,Toulon,2025-05-13
+15,Chloe,MOREAU,chloe.moreau_at_example.com,-6,06123,Toulouse,2025-01-03
+16,Sophie,Moreau,,-7,0686644106,Rennes,2025-08-08
+17,Jean,Simon,jean.simon_at_example.com,59,0696728778, lyon ,2025-01-13
+18,  lea  ,Petit,lea.petit@example.com,73,0620117988,Bordeaux,2025-09-04
+19,  lea  ,Dubois,lea.dubois@example.com,31,0663826716,Paris,2025-03-13
+20,,MOREAU,nicolas.moreau@example.com,-6,06123,Marseille,2025-04-10
+21,,Moreau,manon.moreau@example.com,28,06123,Lille,2025-02-28
+22,Chloe,Martin,chloe.martin@example.com,57,0621003626,Strasbourg,2025-11-19
+23,Julien,Robert,julien.robert_at_example.com,47,0652436584, lyon ,2025-01-15
+24,Marie,Roux,marie.roux@example.com,33,0659597086, nice ,2025-03-15
+25,Lucas,Roux,,60,,Marseille,2025-05-04
+26,Manon,Robert,manon.robert_at_example.com,50,06123,Nice,2025-01-03
+27,  lea  ,Moreau,lea.moreau@example.com,63,0667403166,Lille,2025-01-04
+28,Pierre,Martin,pierre.martin@example.com,37,0658942697,Paris,2025-06-07
+29,,Roux,hugo.roux@example.com,33,0631810617,Marseille,2025-07-01
+30,Pierre,,pierre.lefebvre@example.com,62,0624508349,Strasbourg,2025-01-28
+31,Julien,Petit,julien.petit@example.com,43,0654058573,Nice,2025-13-45
+32,Lucas,Thomas,lucas.thomas@example.com,55,0645630292,Paris,2025-02-20
+33,Lucas,Martin,lucas.martin@example.com,63,0668526649, paris ,2025-09-26
+34,Emma,Laurent,emma.laurent@example.com,38,0699038359, lyon ,2025-12-10
+35,Thomas,Simon,thomas.simon@example.com,65,0633357554,Rennes,2025-10-10
+36,Lea,Dubois,,-9,0638682516,Lille,2025-13-45
+37,  nicolas  ,,nicolas.petit@example.com,61,06123,Toulouse,2025-04-05
+38,  sophie  ,Michel,sophie.michel@example.com,62,0661536717,Bordeaux,2025-07-08
+39,Nicolas,MICHEL,nicolas.michel_at_example.com,51,0672350830,Paris,2025-09-08
+40,Nicolas,Roux,nicolas.roux@example.com,46,0692228802,Toulon,2025-09-14
+41,Julien,ROBERT,julien.robert@example.com,67,0679967676,Bordeaux,2025-11-08
+42,Sophie,Durand,sophie.durand@example.com,-14,0630509175,Toulon,2025-04-03
+43,Camille,Martin,camille.martin@example.com,72,0687267850,Strasbourg,2025-08-01
+44,Nicolas,LAURENT,nicolas.laurent@example.com,75,0639600202, bordeaux ,2025-04-09
+45,Pierre,LAURENT,pierre.laurent@example.com,52,,Strasbourg,2025-10-19
+46,Lea,Richard,lea.richard@example.com,-6,, nice ,2025-07-09
+47,,LEFEBVRE,jean.lefebvre@example.com,19,,Toulouse,2025-01-20
+48,Pierre,Laurent,pierre.laurent@example.com,56,0625372341,Marseille,2025-05-04
+49,Chloe,Michel,chloe.michel@example.com,192,0694187049,Toulouse,2025-02-23
+50,Emma,Bernard,emma.bernard@example.com,50,0696911784,Nantes,2025-01-28
+51,Pierre,Michel,pierre.michel@example.com,51,0697302916,Nice,2025-10-26
+52,Hugo,Bernard,hugo.bernard_at_example.com,35,,Toulouse,2025-08-19
+53,  emma  ,Robert,emma.robert_at_example.com,74,0690014570,Toulon,2025-05-18
+54,,Michel,julien.michel@example.com,49,0670152969,Paris,2025-02-10
+55,Camille,,camille.moreau@example.com,39,0657219209,Toulon,2025-08-09
+56,Sophie,Petit,sophie.petit@example.com,144,0674988034,Nice,2025-12-19
+57,Camille,Moreau,camille.moreau@example.com,26,06123, paris ,2025-01-18
+58,Lea,Dubois,lea.dubois@example.com,-11,0634744872, paris ,2025-05-28
+59,Lucas,Bernard,lucas.bernard@example.com,33,0625898299,Lille,2025-07-20
+60,  thomas  ,Robert,thomas.robert@example.com,54,06123,Paris,2025-10-24
+61,Pierre,,pierre.martin@example.com,44,0670465583,Toulon,2025-10-16
+62,  nicolas  ,,nicolas.lefebvre_at_example.com,58,06123, montpellier ,2025-04-14
+63,Chloe,Michel,chloe.michel@example.com,70,0686397676,Nice,2025-08-04
+64,  hugo  ,Durand,hugo.durand@example.com,65,0653261270,Rennes,2025-05-01
+65,Lucas,Laurent,lucas.laurent@example.com,20,0633513701,Bordeaux,2025-09-21
+66,Thomas,Richard,thomas.richard@example.com,38,0699943797, lyon ,2025-13-45
+67,Lucas,Richard,lucas.richard_at_example.com,25,0664247457,Lille,2025-01-22
+68,Jean,Petit,jean.petit_at_example.com,35,0683715012,Marseille,2025-05-15
+69,Jean,Moreau,,44,0622510327,Toulouse,2025-02-15
+70,,Dubois,lea.dubois@example.com,128,0671308842,Lille,2025-03-13
+71,Hugo,Lefebvre,hugo.lefebvre@example.com,50,06123,Paris,2025-05-24
+72,,Lefebvre,antoine.lefebvre@example.com,52,0660628276, bordeaux ,2025-06-28
+73,Camille,Roux,camille.roux@example.com,-9,0661167978,Strasbourg,2025-13-45
+74,  manon  ,Dubois,manon.dubois@example.com,-13,0680591959,Bordeaux,2025-01-24
+75,Julien,Bernard,julien.bernard@example.com,72,0654099326,Montpellier,2025-09-13
+76,Julien,Roux,julien.roux@example.com,141,0640532691,Toulon,2025-13-45
+77,,Martin,nicolas.martin@example.com,36,,Nantes,2025-07-05
+78,Julien,Petit,julien.petit@example.com,49,0688270025,Marseille,2025-04-15
+79,Marie,Dubois,marie.dubois@example.com,40,0688862539, nice ,2025-11-14
+80,Emma,Laurent,emma.laurent@example.com,36,06123,Paris,2025-11-13
+81,Hugo,Roux,hugo.roux@example.com,36,0640885967,Rennes,2025-06-08
+82,Hugo,Simon,hugo.simon_at_example.com,59,0615291208, nice ,2025-08-02
+83,,Roux,antoine.roux@example.com,41,0681249799,Lille,2025-05-27
+84,Lea,Bernard,lea.bernard@example.com,27,0640281491, montpellier ,2025-12-22
+85,Lea,Richard,lea.richard@example.com,61,0645186708,Rennes,2025-07-27
+86,Chloe,Petit,chloe.petit_at_example.com,59,0618484847,Montpellier,2025-13-45
+87,Hugo,Moreau,hugo.moreau@example.com,26,0662163160,Bordeaux,2025-06-22
+88,Manon,Dubois,manon.dubois@example.com,57,06123,Nice,2025-01-23
+89,Julien,Richard,julien.richard_at_example.com,21,0663437398,Nice,2025-13-45
+90,Emma,,,26,0685776373, toulouse ,2025-02-27
+91,Jean,ROBERT,jean.robert@example.com,165,0629419691,Marseille,2025-09-09
+92,  pierre  ,ROBERT,pierre.robert@example.com,21,0627013243,Toulon,2025-07-17
+93,Chloe,MARTIN,chloe.martin@example.com,64,0698436473, lille ,2025-05-15
+94,  lea  ,Bernard,lea.bernard@example.com,75,0620843514,Nantes,2025-10-05
+95,Lea,Moreau,lea.moreau@example.com,56,,Lyon,2025-12-04
+96,Emma,Leroy,emma.leroy@example.com,47,0663516659,Strasbourg,2025-13-45
+97,Marie,Bernard,marie.bernard@example.com,45,0622960658, toulon ,2025-12-12
+98,Julien,Lefebvre,,45,, nice ,2025-10-10
+99,Emma,Bernard,emma.bernard@example.com,66,0647388792,Rennes,2025-04-26
+100,Julien,Leroy,julien.leroy@example.com,-14,06123,Paris,2025-13-45
